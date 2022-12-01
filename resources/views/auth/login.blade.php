@@ -31,7 +31,7 @@
                     </div>
                 </div>
 
-                <div class="row mb-0">
+                <!-- <div class="row mb-0">
                     <div class="col-md-8 offset-md-6 h5">
                         @if (Route::has('password.request'))
                         <a class="nav-link text-danger" href="{{ route('password.request') }}">
@@ -39,7 +39,7 @@
                         </a>
                         @endif
                     </div>
-                </div>
+                </div> -->
 
                 <div class="row mb-3">
                     <div class="col-6 offset-md-3">
